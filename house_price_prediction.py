@@ -7,6 +7,7 @@ import matplotlib.pyplot as plt
 
 
 print("This is my updated House Price Prediction Project!")
+print("This is the line I have added in GitHub Repository")
 
 
 # Creating a simple dataset
