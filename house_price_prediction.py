@@ -6,6 +6,9 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error
 import matplotlib.pyplot as plt
 
 
+print("This is my updated House Price Prediction Project!")
+
+
 # Creating a simple dataset
 data = {
     "Area_sqft": [500, 1000, 1500, 2000, 2500, 3000, 3500],
